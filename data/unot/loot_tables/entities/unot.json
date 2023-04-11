@@ -1,0 +1,648 @@
+{
+  "pools": [
+      {
+          "rolls": 1,
+          "entries": [
+              {
+                  "type": "item",
+                  "weight": 1,
+                  "name": "minecraft:paper",
+                  "functions": [
+                      {
+                          "function": "set_nbt",
+                          "tag": "{display:{Name:'{\"text\":\"Red 0\",\"color\":\"red\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1000}"
+                      }
+                  ]
+              },
+              {
+                  "type": "item",
+                  "weight": 1,
+                  "name": "minecraft:paper",
+                  "functions": [
+                      {
+                          "function": "set_nbt",
+                          "tag": "{display:{Name:'{\"text\":\"Red 1\",\"color\":\"red\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1001}"
+                      }
+                  ]
+              },
+              {
+                  "type": "item",
+                  "weight": 1,
+                  "name": "minecraft:paper",
+                  "functions": [
+                      {
+                          "function": "set_nbt",
+                          "tag": "{display:{Name:'{\"text\":\"Red 2\",\"color\":\"red\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1002}"
+                      }
+                  ]
+              },
+              {
+                  "type": "item",
+                  "weight": 1,
+                  "name": "minecraft:paper",
+                  "functions": [
+                      {
+                          "function": "set_nbt",
+                          "tag": "{display:{Name:'{\"text\":\"Red 3\",\"color\":\"red\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1003}"
+                      }
+                  ]
+              },
+              {
+                  "type": "item",
+                  "weight": 1,
+                  "name": "minecraft:paper",
+                  "functions": [
+                      {
+                          "function": "set_nbt",
+                          "tag": "{display:{Name:'{\"text\":\"Red 4\",\"color\":\"red\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1004}"
+                      }
+                  ]
+              },
+              {
+                  "type": "item",
+                  "weight": 1,
+                  "name": "minecraft:paper",
+                  "functions": [
+                      {
+                          "function": "set_nbt",
+                          "tag": "{display:{Name:'{\"text\":\"Red 5\",\"color\":\"red\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1005}"
+                      }
+                  ]
+              },
+              {
+                  "type": "item",
+                  "weight": 1,
+                  "name": "minecraft:paper",
+                  "functions": [
+                      {
+                          "function": "set_nbt",
+                          "tag": "{display:{Name:'{\"text\":\"Red 6\",\"color\":\"red\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1006}"
+                      }
+                  ]
+              },
+              {
+                  "type": "item",
+                  "weight": 1,
+                  "name": "minecraft:paper",
+                  "functions": [
+                      {
+                          "function": "set_nbt",
+                          "tag": "{display:{Name:'{\"text\":\"Red 7\",\"color\":\"red\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1007}"
+                      }
+                  ]
+              },
+              {
+                  "type": "item",
+                  "weight": 1,
+                  "name": "minecraft:paper",
+                  "functions": [
+                      {
+                          "function": "set_nbt",
+                          "tag": "{display:{Name:'{\"text\":\"Red 8\",\"color\":\"red\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1008}"
+                      }
+                  ]
+              },
+              {
+                  "type": "item",
+                  "weight": 1,
+                  "name": "minecraft:paper",
+                  "functions": [
+                      {
+                          "function": "set_nbt",
+                          "tag": "{display:{Name:'{\"text\":\"Red 9\",\"color\":\"red\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1009}"
+                      }
+                  ]
+              },
+              {
+                "type": "item",
+                "weight": 1,
+                "name": "minecraft:paper",
+                "functions": [
+                    {
+                        "function": "set_nbt",
+                        "tag": "{display:{Name:'{\"text\":\"Yellow 0\",\"color\":\"yellow\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1010}"
+                    }
+                ]
+            },
+            {
+                "type": "item",
+                "weight": 1,
+                "name": "minecraft:paper",
+                "functions": [
+                    {
+                        "function": "set_nbt",
+                        "tag": "{display:{Name:'{\"text\":\"Yellow 1\",\"color\":\"yellow\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1011}"
+                    }
+                ]
+            },
+            {
+                "type": "item",
+                "weight": 1,
+                "name": "minecraft:paper",
+                "functions": [
+                    {
+                        "function": "set_nbt",
+                        "tag": "{display:{Name:'{\"text\":\"Yellow 2\",\"color\":\"yellow\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1012}"
+                    }
+                ]
+            },
+            {
+                "type": "item",
+                "weight": 1,
+                "name": "minecraft:paper",
+                "functions": [
+                    {
+                        "function": "set_nbt",
+                        "tag": "{display:{Name:'{\"text\":\"Yellow 3\",\"color\":\"yellow\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1013}"
+                    }
+                ]
+            },
+            {
+                "type": "item",
+                "weight": 1,
+                "name": "minecraft:paper",
+                "functions": [
+                    {
+                        "function": "set_nbt",
+                        "tag": "{display:{Name:'{\"text\":\"Yellow 4\",\"color\":\"yellow\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1014}"
+                    }
+                ]
+            },
+            {
+                "type": "item",
+                "weight": 1,
+                "name": "minecraft:paper",
+                "functions": [
+                    {
+                        "function": "set_nbt",
+                        "tag": "{display:{Name:'{\"text\":\"Yellow 5\",\"color\":\"yellow\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1015}"
+                    }
+                ]
+            },
+            {
+                "type": "item",
+                "weight": 1,
+                "name": "minecraft:paper",
+                "functions": [
+                    {
+                        "function": "set_nbt",
+                        "tag": "{display:{Name:'{\"text\":\"Yellow 6\",\"color\":\"yellow\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1016}"
+                    }
+                ]
+            },
+            {
+                "type": "item",
+                "weight": 1,
+                "name": "minecraft:paper",
+                "functions": [
+                    {
+                        "function": "set_nbt",
+                        "tag": "{display:{Name:'{\"text\":\"Yellow 7\",\"color\":\"yellow\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1017}"
+                    }
+                ]
+            },
+            {
+                "type": "item",
+                "weight": 1,
+                "name": "minecraft:paper",
+                "functions": [
+                    {
+                        "function": "set_nbt",
+                        "tag": "{display:{Name:'{\"text\":\"Yellow 8\",\"color\":\"yellow\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1018}"
+                    }
+                ]
+            },
+            {
+                "type": "item",
+                "weight": 1,
+                "name": "minecraft:paper",
+                "functions": [
+                    {
+                        "function": "set_nbt",
+                        "tag": "{display:{Name:'{\"text\":\"Yellow 9\",\"color\":\"yellow\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1019}"
+                    }
+                ]
+            },
+            {
+              "type": "item",
+              "weight": 1,
+              "name": "minecraft:paper",
+              "functions": [
+                  {
+                      "function": "set_nbt",
+                      "tag": "{display:{Name:'{\"text\":\"Blue 0\",\"color\":\"blue\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1020}"
+                  }
+              ]
+          },
+          {
+              "type": "item",
+              "weight": 1,
+              "name": "minecraft:paper",
+              "functions": [
+                  {
+                      "function": "set_nbt",
+                      "tag": "{display:{Name:'{\"text\":\"Blue 1\",\"color\":\"blue\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1021}"
+                  }
+              ]
+          },
+          {
+              "type": "item",
+              "weight": 1,
+              "name": "minecraft:paper",
+              "functions": [
+                  {
+                      "function": "set_nbt",
+                      "tag": "{display:{Name:'{\"text\":\"Blue 2\",\"color\":\"blue\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1022}"
+                  }
+              ]
+          },
+          {
+              "type": "item",
+              "weight": 1,
+              "name": "minecraft:paper",
+              "functions": [
+                  {
+                      "function": "set_nbt",
+                      "tag": "{display:{Name:'{\"text\":\"Blue 3\",\"color\":\"blue\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1023}"
+                  }
+              ]
+          },
+          {
+              "type": "item",
+              "weight": 1,
+              "name": "minecraft:paper",
+              "functions": [
+                  {
+                      "function": "set_nbt",
+                      "tag": "{display:{Name:'{\"text\":\"Blue 4\",\"color\":\"blue\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1024}"
+                  }
+              ]
+          },
+          {
+              "type": "item",
+              "weight": 1,
+              "name": "minecraft:paper",
+              "functions": [
+                  {
+                      "function": "set_nbt",
+                      "tag": "{display:{Name:'{\"text\":\"Blue 5\",\"color\":\"blue\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1025}"
+                  }
+              ]
+          },
+          {
+              "type": "item",
+              "weight": 1,
+              "name": "minecraft:paper",
+              "functions": [
+                  {
+                      "function": "set_nbt",
+                      "tag": "{display:{Name:'{\"text\":\"Blue 6\",\"color\":\"blue\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1026}"
+                  }
+              ]
+          },
+          {
+              "type": "item",
+              "weight": 1,
+              "name": "minecraft:paper",
+              "functions": [
+                  {
+                      "function": "set_nbt",
+                      "tag": "{display:{Name:'{\"text\":\"Blue 7\",\"color\":\"blue\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1027}"
+                  }
+              ]
+          },
+          {
+              "type": "item",
+              "weight": 1,
+              "name": "minecraft:paper",
+              "functions": [
+                  {
+                      "function": "set_nbt",
+                      "tag": "{display:{Name:'{\"text\":\"Blue 8\",\"color\":\"blue\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1028}"
+                  }
+              ]
+          },
+          {
+              "type": "item",
+              "weight": 1,
+              "name": "minecraft:paper",
+              "functions": [
+                  {
+                      "function": "set_nbt",
+                      "tag": "{display:{Name:'{\"text\":\"Blue 9\",\"color\":\"blue\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1029}"
+                  }
+              ]
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "name": "minecraft:paper",
+            "functions": [
+                {
+                    "function": "set_nbt",
+                    "tag": "{display:{Name:'{\"text\":\"Green 0\",\"color\":\"green\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1030}"
+                }
+            ]
+        },
+        {
+            "type": "item",
+            "weight": 1,
+            "name": "minecraft:paper",
+            "functions": [
+                {
+                    "function": "set_nbt",
+                    "tag": "{display:{Name:'{\"text\":\"Green 1\",\"color\":\"green\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1031}"
+                }
+            ]
+        },
+        {
+            "type": "item",
+            "weight": 1,
+            "name": "minecraft:paper",
+            "functions": [
+                {
+                    "function": "set_nbt",
+                    "tag": "{display:{Name:'{\"text\":\"Green 2\",\"color\":\"green\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1032}"
+                }
+            ]
+        },
+        {
+            "type": "item",
+            "weight": 1,
+            "name": "minecraft:paper",
+            "functions": [
+                {
+                    "function": "set_nbt",
+                    "tag": "{display:{Name:'{\"text\":\"Green 3\",\"color\":\"green\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1033}"
+                }
+            ]
+        },
+        {
+            "type": "item",
+            "weight": 1,
+            "name": "minecraft:paper",
+            "functions": [
+                {
+                    "function": "set_nbt",
+                    "tag": "{display:{Name:'{\"text\":\"Green 4\",\"color\":\"green\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1034}"
+                }
+            ]
+        },
+        {
+            "type": "item",
+            "weight": 1,
+            "name": "minecraft:paper",
+            "functions": [
+                {
+                    "function": "set_nbt",
+                    "tag": "{display:{Name:'{\"text\":\"Green 5\",\"color\":\"green\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1035}"
+                }
+            ]
+        },
+        {
+            "type": "item",
+            "weight": 1,
+            "name": "minecraft:paper",
+            "functions": [
+                {
+                    "function": "set_nbt",
+                    "tag": "{display:{Name:'{\"text\":\"Green 6\",\"color\":\"green\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1036}"
+                }
+            ]
+        },
+        {
+            "type": "item",
+            "weight": 1,
+            "name": "minecraft:paper",
+            "functions": [
+                {
+                    "function": "set_nbt",
+                    "tag": "{display:{Name:'{\"text\":\"Green 7\",\"color\":\"green\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1037}"
+                }
+            ]
+        },
+        {
+            "type": "item",
+            "weight": 1,
+            "name": "minecraft:paper",
+            "functions": [
+                {
+                    "function": "set_nbt",
+                    "tag": "{display:{Name:'{\"text\":\"Green 8\",\"color\":\"green\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1038}"
+                }
+            ]
+        },
+        {
+            "type": "item",
+            "weight": 1,
+            "name": "minecraft:paper",
+            "functions": [
+                {
+                    "function": "set_nbt",
+                    "tag": "{display:{Name:'{\"text\":\"Green 9\",\"color\":\"green\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1039}"
+                }
+            ]
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:paper",
+          "functions": [
+              {
+                  "function": "set_nbt",
+                  "tag": "{display:{Name:'{\"text\":\"Red Draw 2\",\"color\":\"red\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1040}"
+              }
+          ]
+      },
+      {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:paper",
+          "functions": [
+              {
+                  "function": "set_nbt",
+                  "tag": "{display:{Name:'{\"text\":\"Red Reverse\",\"color\":\"red\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1041}"
+              }
+          ]
+      },
+      {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:paper",
+          "functions": [
+              {
+                  "function": "set_nbt",
+                  "tag": "{display:{Name:'{\"text\":\"Red Skip\",\"color\":\"red\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1042}"
+              }
+          ]
+      },
+
+
+
+
+
+
+
+
+
+
+
+
+      {
+        "type": "item",
+        "weight": 1,
+        "name": "minecraft:paper",
+        "functions": [
+            {
+                "function": "set_nbt",
+                "tag": "{display:{Name:'{\"text\":\"Yellow Draw 2\",\"color\":\"yellow\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1043}"
+            }
+        ]
+    },
+    {
+        "type": "item",
+        "weight": 1,
+        "name": "minecraft:paper",
+        "functions": [
+            {
+                "function": "set_nbt",
+                "tag": "{display:{Name:'{\"text\":\"Yellow Reverse\",\"color\":\"yellow\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1044}"
+            }
+        ]
+    },
+    {
+        "type": "item",
+        "weight": 1,
+        "name": "minecraft:paper",
+        "functions": [
+            {
+                "function": "set_nbt",
+                "tag": "{display:{Name:'{\"text\":\"Yellow Skip\",\"color\":\"yellow\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1045}"
+            }
+        ]
+    },
+
+
+
+
+
+
+
+
+
+    {
+      "type": "item",
+      "weight": 1,
+      "name": "minecraft:paper",
+      "functions": [
+          {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Blue Draw 2\",\"color\":\"blue\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1046}"
+          }
+      ]
+  },
+  {
+      "type": "item",
+      "weight": 1,
+      "name": "minecraft:paper",
+      "functions": [
+          {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Blue Reverse\",\"color\":\"blue\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1047}"
+          }
+      ]
+  },
+  {
+      "type": "item",
+      "weight": 1,
+      "name": "minecraft:paper",
+      "functions": [
+          {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Blue Skip\",\"color\":\"blue\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1048}"
+          }
+      ]
+  },
+
+
+
+
+
+
+  {
+    "type": "item",
+    "weight": 1,
+    "name": "minecraft:paper",
+    "functions": [
+        {
+            "function": "set_nbt",
+            "tag": "{display:{Name:'{\"text\":\"Green Draw 2\",\"color\":\"green\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1049}"
+        }
+    ]
+},
+{
+    "type": "item",
+    "weight": 1,
+    "name": "minecraft:paper",
+    "functions": [
+        {
+            "function": "set_nbt",
+            "tag": "{display:{Name:'{\"text\":\"Green Reverse\",\"color\":\"green\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1050}"
+        }
+    ]
+},
+{
+    "type": "item",
+    "weight": 1,
+    "name": "minecraft:paper",
+    "functions": [
+        {
+            "function": "set_nbt",
+            "tag": "{display:{Name:'{\"text\":\"Green Skip\",\"color\":\"green\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1051}"
+        }
+    ]
+},
+
+
+
+
+{
+  "type": "item",
+  "weight": 1,
+  "name": "minecraft:paper",
+  "functions": [
+      {
+          "function": "set_nbt",
+          "tag": "{display:{Name:'{\"text\":\"Wild\",\"color\":\"gray\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1052}"
+      }
+  ]
+},
+{
+  "type": "item",
+  "weight": 1,
+  "name": "minecraft:paper",
+  "functions": [
+      {
+          "function": "set_nbt",
+          "tag": "{display:{Name:'{\"text\":\"Wild Draw 4\",\"color\":\"gray\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomModelData:1053}"
+      }
+  ]
+}
+        ]
+      }
+  ]
+}
