@@ -1,0 +1,1 @@
+experience set @a[tag=UnoPlayer] 0 points
